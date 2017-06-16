@@ -8,4 +8,4 @@ tags={
 }
 picture="airlight.jpg"
 remote_file_id="756708652"
-supported_version="1.2.*"
+supported_version="1.4.*"
